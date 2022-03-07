@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pimby-9648e": {
+      "hosting": {
+        "pasteleria": [
+          "pimby-9648e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pimby-9648e"
+  }
+}

@@ -1,0 +1,25 @@
+body{
+  background-color: aqua;
+}
+
+h1{
+  font-size: 200%;
+  font-style: italic;
+  color: rgb(231, 180, 40);
+}
+
+h2{
+  color: blueviolet;
+}
+
+table, th, td {
+  border: 1px solid rgb(39, 37, 37);
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+
+.vol{
+  color: rgb(201, 165, 48);
+}

@@ -1,0 +1,21 @@
+body{
+  background-color: aqua;
+}
+
+h1{
+  font-size: 200%;
+  font-style: italic;
+  color: rgb(231, 180, 40);
+}
+
+h2{
+  color: blueviolet;
+}
+
+.info{
+  text-align: left;
+}
+
+.pedido{
+  text-align: center;
+}
